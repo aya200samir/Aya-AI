@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+pandas
+numpy
+scikit-learn
+xgboost
+sentence-transformers
+faiss-cpu
+shap
+plotly
+joblib
